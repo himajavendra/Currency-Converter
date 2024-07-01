@@ -5,7 +5,7 @@ import useCurrencyInfo from "./hooks/useCurrencyInfo";
 import { InputBox } from "./components";
 
 function App() {
-  const BackgroundImage = "https://media.istockphoto.com/id/1288703928/photo/finance-and-economy-chart-for-dollar-gold-euro-currencies-trading-view.jpg?b=1&s=612x612&w=0&k=20&c=nYeW_7EyHWNwVwEFnK6oPLGSR1aNau7-Agcu8Uqt4RU=";
+  const BackgroundImage = "https://t3.ftcdn.net/jpg/04/34/58/54/360_F_434585463_zpdtTpTEbqQFfsp6RVEW6IIxEM9dHf86.jpg";
   const [amount, setAmount] = useState(1);
   const [from, setFrom] = useState("AUD");
   const [to, setTo] = useState("INR");
