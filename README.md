@@ -1,6 +1,5 @@
 # Currency Coverter
-<h4>This project is all about converting the currency signs form one to  other</h4>
-<img scr="https://currency-converter-neon-gamma.vercel.app" alt="Project Image"/>
+<h4>This project is all about converting the currency signs form one to  other.</h4>
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
